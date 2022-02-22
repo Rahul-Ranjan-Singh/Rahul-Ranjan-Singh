@@ -1,5 +1,5 @@
 <div align="center">
-  A techie who has developed intrests in Android and Web
+  A techie who has developed interests in Android and Web
    
   ## Tech & Tools Preference
 
